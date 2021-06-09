@@ -68,4 +68,4 @@ On occasion we include links to third parties on this website. Where we provide 
 
 ## Contacting Us
 
-Please do not hesitate to contact us regarding any matter relating to this Privacy and Cookies Policy via our Contact Form.
+Please do not hesitate to contact us regarding any matter relating to this Privacy and Cookies Policy via our [Contact Form](../contact).
